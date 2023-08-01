@@ -1,2 +1,2 @@
 # git-tutorial
-# this project will cover knowleage relate to java core
+# this project will cover knowledge relate to java core
